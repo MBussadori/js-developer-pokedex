@@ -4,5 +4,12 @@ class Pokemon {
     name;
     type;
     types = [];
-    photo;
+    photo; 
+}
+
+class PokemonCardDetail {
+    image;
+    abilites;
+    height;
+    weight;
 }
